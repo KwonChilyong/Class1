@@ -1,0 +1,8 @@
+package chap07;
+
+public interface chicken extends franchise {
+	void fried();
+	void toSpoi();// ø∞¡ˆ«œ¥Ÿ
+	void bone(); // πﬂ∞Ò«œ¥Ÿ
+	
+}
